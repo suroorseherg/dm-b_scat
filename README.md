@@ -12,4 +12,4 @@ Has the code for calculating the evolution of the DM velocity distribution. It c
 to generate Figure 2 in Gandhi & Ali-Haïmoud (2022).
 
 #### 'FIG2_QFP_n=024_mchims=3e1_1e1_3e0_1e0_3.3e-1_1e-1_3.3e-2_1e-2_dlnxFP=0.002.npy'
-Binary file that contains data for FP evolution of the 1D DM velocity distribution. Generated using code from Ali-Haïmoud (2019).
+Binary file that contains data for heat-exchange rate calculated in the FP approximation. Generated using code from Ali-Haïmoud (2019).
